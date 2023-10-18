@@ -6,7 +6,8 @@ Pioneering fusion-powered spacecraft propulsion for interstellar travel.
 - [Description](#description)
 - [Vision And Mission](#vision-and-mission)
 - [Technologies](#technologies)
-- [Our Challenges](#our-challenges) 
+- [Our Challenges](#our-challenges)
+- [Contributor Guide](#contributor-guide) 
 
 # Description 
 
@@ -111,6 +112,116 @@ The primary problem that FusionSpacePioneer aims to solve is the significant tec
 10. **Sustainable Propulsion**: FusionSpacePioneer aims to make interstellar travel sustainable and environmentally responsible, minimizing the ecological impact of human expansion into the cosmos.
 
 By addressing these challenges and developing innovative solutions, FusionSpacePioneer seeks to pave the way for practical interstellar travel, pushing the boundaries of human exploration and expanding our understanding of the universe.
+
+Creating a GitHub contributor guide for FusionSpacePioneer is an essential step in fostering collaboration and open-source development. Below is a template for such a guide:
+
+# Contributor Guide
+
+---
+
+# FusionSpacePioneer Contributor Guide
+
+Welcome to FusionSpacePioneer! We're excited to have you as a contributor to our mission of pioneering fusion-powered spacecraft propulsion for interstellar travel. This guide is designed to help you get started and contribute effectively to our project. Please read this guide thoroughly before you begin.
+
+## Table of Contents
+
+1. [Getting Started](#getting-started)
+   - [Code of Conduct](#code-of-conduct)
+   - [Fork and Clone the Repository](#fork-and-clone-the-repository)
+   - [Setting Up Your Development Environment](#setting-up-your-development-environment)
+
+2. [Contributing](#contributing)
+   - [Creating a New Issue](#creating-a-new-issue)
+   - [Making Changes](#making-changes)
+   - [Pull Requests](#pull-requests)
+   - [Code Reviews](#code-reviews)
+
+3. [Project Structure](#project-structure)
+
+4. [Communication](#communication)
+   - [Community Chat](#community-chat)
+
+5. [License](#license)
+
+## Getting Started
+
+### Code of Conduct
+
+We expect all contributors to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Please make sure you understand and follow these guidelines in all interactions within our community.
+
+### Fork and Clone the Repository
+
+1. Fork the FusionSpacePioneer repository to your own GitHub account.
+
+2. Clone your forked repository to your local development environment:
+
+   ```bash
+   git clone https://github.com/your-username/FusionSpacePioneer.git
+   ```
+
+### Setting Up Your Development Environment
+
+Follow the instructions in our [Development Setup Guide](DEVELOPMENT_SETUP.md) to set up your development environment. This guide includes information on dependencies, virtual environments, and project-specific configurations.
+
+## Contributing
+
+### Creating a New Issue
+
+If you encounter a bug, have an idea for an enhancement, or want to propose a new feature, please create an issue. Follow these guidelines when creating issues:
+
+- Be clear and descriptive.
+- Include relevant details, such as the environment, steps to reproduce, and expected behavior.
+- Use appropriate labels to categorize the issue (e.g., bug, feature, enhancement).
+
+### Making Changes
+
+1. Create a new branch for your work:
+
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+2. Make your changes and commit them:
+
+   ```bash
+   git commit -m "Description of your changes"
+   ```
+
+3. Push your branch to your fork on GitHub:
+
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+### Pull Requests
+
+1. Create a pull request (PR) from your branch to the main repository's `main` branch.
+
+2. Provide a detailed description of your changes in the PR. Include any relevant information about the issue your changes address.
+
+3. Follow our pull request template (PULL_REQUEST_TEMPLATE.md) for consistency.
+
+### Code Reviews
+
+Our team will review your PR and provide feedback. Be prepared to make necessary adjustments to your code based on the feedback.
+
+## Project Structure
+
+Understanding our project structure is essential for efficient contribution. Familiarize yourself with the key directories and their purposes.
+
+## Communication
+
+### Community Chat
+
+Join our community chat on [Slack/Discord/other] for real-time discussions, questions, and announcements. [Provide invitation link and guidelines]
+
+## License
+
+By contributing to FusionSpacePioneer, you agree that your contributions will be licensed under our project's open-source license. Please see our [LICENSE](LICENSE.md) for details.
+
+Thank you for your interest in FusionSpacePioneer. We appreciate your contributions and look forward to working with you to make interstellar travel a reality.
+
+---
 
 # Guide
 
