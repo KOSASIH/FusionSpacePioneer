@@ -7,7 +7,8 @@ Pioneering fusion-powered spacecraft propulsion for interstellar travel.
 - [Vision And Mission](#vision-and-mission)
 - [Technologies](#technologies)
 - [Our Challenges](#our-challenges)
-- [Contributor Guide](#contributor-guide) 
+- [Contributor Guide](#contributor-guide)
+- [Tutorials](#tutorials) 
 
 # Description 
 
@@ -223,7 +224,7 @@ Thank you for your interest in FusionSpacePioneer. We appreciate your contributi
 
 ---
 
-# Guide
+# Tutorials
 
 ## Calculate Fusion Power
 
