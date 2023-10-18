@@ -155,7 +155,7 @@ We expect all contributors to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md
 2. Clone your forked repository to your local development environment:
 
    ```bash
-   git clone https://github.com/your-username/FusionSpacePioneer.git
+   git clone https://github.com/KOSASIH/FusionSpacePioneer.git
    ```
 
 ### Setting Up Your Development Environment
