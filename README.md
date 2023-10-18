@@ -7,7 +7,7 @@ Pioneering fusion-powered spacecraft propulsion for interstellar travel.
 - [Vision And Mission](#vision-and-mission)
 - [Technologies](#technologies)
 - [Our Challenges](#our-challenges)
-- [Contributor Guide](#contributor-guide)
+- [FusionSpacePioneer Contributor Guide](#fusionspacepioneer-contributor-guide)
 - [Tutorials](#tutorials) 
 
 # Description 
@@ -115,8 +115,6 @@ The primary problem that FusionSpacePioneer aims to solve is the significant tec
 By addressing these challenges and developing innovative solutions, FusionSpacePioneer seeks to pave the way for practical interstellar travel, pushing the boundaries of human exploration and expanding our understanding of the universe.
 
 Creating a GitHub contributor guide for FusionSpacePioneer is an essential step in fostering collaboration and open-source development. Below is a template for such a guide:
-
-# Contributor Guide
 
 ---
 
